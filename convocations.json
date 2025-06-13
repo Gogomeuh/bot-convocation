@@ -1,0 +1,19 @@
+[
+  {
+    "jour": "dimanche",
+    "heure": "18:00",
+    "convoques": "<<@851080481633206302>> M. pricipal",
+    "raison": "interne",
+    "salonVocal": "🔈・Salle d'Attente",
+    "salonTextuelId": "1382440838235160708"
+  },
+  {
+    "jour": "<dimanche>",
+    "heure": "<18H00>",
+    "salonTextuelId": "1382440838235160708",
+    "salonVocal": "<1382965081402245170>",
+    "convoques": "<<@851080481633206302>>",
+    "raison": "<interne>",
+    "auteur": "gogomeuh"
+  }
+]

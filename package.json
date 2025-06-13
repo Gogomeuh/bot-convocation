@@ -1,0 +1,14 @@
+{
+  "name": "bot-convocation",
+  "version": "1.0.0",
+  "description": "Bot Discord de convocation automatique",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.5.0",
+    "node-schedule": "^2.1.1"
+  }
+}
